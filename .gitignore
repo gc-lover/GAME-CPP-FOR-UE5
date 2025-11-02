@@ -1,0 +1,48 @@
+# Unreal Engine 5 generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.pdb
+*.tlog
+*.VC.db
+*.VC.opendb
+
+# Visual Studio files
+.vs/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.bin
+
+# Logs
+*.log
+Logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
